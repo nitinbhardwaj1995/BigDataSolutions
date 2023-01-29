@@ -1,2 +1,3 @@
-for i in range(1,5):
-    print(i)
+a=int(input())
+b=int(input())
+print(a*b)
