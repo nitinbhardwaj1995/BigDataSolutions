@@ -1,4 +1,4 @@
-e="nitinbhardwaj04@gmail.com"
+ee="nitinbhardwaj04@gmail.com"
 def check_email(email):
     l=['nitinbhardwaj00','nitinbhardwaj01','nitinbhardwaj02']
     email=email.split("@")[0]
@@ -12,4 +12,4 @@ def check_email(email):
             print("No")
 
 
-print(check_email(e))
+print(check_email(ee))
